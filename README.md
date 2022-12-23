@@ -1,0 +1,2 @@
+# MIMIC-CLIP
+Finetune CLIP with MIMIC-CXR.
